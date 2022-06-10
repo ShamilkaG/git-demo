@@ -14,6 +14,10 @@ public class App
 		}
 	}
 	
+	public void addedMethod(){
+		System.out.println("method added");
+	}
+	
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
